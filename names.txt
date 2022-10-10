@@ -1,2 +1,3 @@
- boss,xli2422,Li,Xiao
+employee,NetID,LastName,FirstName 
+boss,xli2422,Li,Xiao
 employee,xwang2586,Wang,Xingze
